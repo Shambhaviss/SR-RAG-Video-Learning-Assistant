@@ -1,0 +1,6 @@
+streamlit
+numpy
+openai-whisper
+sentence-transformers
+groq
+python-dotenv
