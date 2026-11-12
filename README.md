@@ -10,6 +10,10 @@ The application combines Retrieval-Augmented Generation (RAG), semantic search, 
 
 Unlike conventional LLM-based question-answering systems, SR-RAG evaluates whether retrieved video transcript passages provide sufficient support before presenting an answer. When evidence is insufficient, the system can abstain rather than generate an unsupported response.
 
+## Application Dashboard
+
+![SR-RAG Dashboard](assets/dashboard.png)
+
 ## Key Features
 
 - **Video Processing:** Extracts audio from uploaded videos using FFmpeg.
