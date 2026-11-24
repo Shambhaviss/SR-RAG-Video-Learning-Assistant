@@ -16,11 +16,11 @@ Unlike conventional LLM-based question-answering systems, SR-RAG evaluates wheth
 
 ## Ask Question
 
-![SR-RAG Dashboard](assets/ask question.png)
+![SR-RAG Dashboard](assets/ask-question.png)
 
 ## Understand Video
 
-![SR-RAG Dashboard](assets/understand video.png)
+![SR-RAG Dashboard](assets/understand-video.png)
 
 ## Key Features
 
