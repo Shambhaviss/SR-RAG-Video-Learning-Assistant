@@ -14,6 +14,14 @@ Unlike conventional LLM-based question-answering systems, SR-RAG evaluates wheth
 
 ![SR-RAG Dashboard](assets/dashboard.png)
 
+## Ask Question
+
+![SR-RAG ask question](assets/ask question.png)
+
+## Understand Video
+
+![SR-RAG understand video](assets/understand video.png)
+
 ## Key Features
 
 - **Video Processing:** Extracts audio from uploaded videos using FFmpeg.
